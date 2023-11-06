@@ -43,6 +43,9 @@ const showData = async (): Promise<Something> => {
 showData();
 
 
+console.log('Alif')
+
+
 
 
 
